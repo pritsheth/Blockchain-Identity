@@ -1,12 +1,12 @@
 # Blockchain-Identity
 Use of own wallet to understand how transactions and security are handled on the blockchain 
 
-Project Overview
+# Project Overview
 In this project, you’ll create and manage your blockchain identity using a bitcoin wallet.
 
 Using your wallet, you will generate a new wallet address and use your wallet address to securely sign a message with your private key. Next, validate your message with your message signature using our web service.
 
-Why this project?
+# Why this project?
 This project introduces you to the fundamentals of blockchain technology.
 
 Using your own wallet to understand how transactions and security are handled on the blockchain is a huge first step toward developing your own secure applications. Later in this program, you’ll be programming blockchain technologies that utilize these same features.
@@ -15,8 +15,7 @@ You will learn to create and manage your personal blockchain identity. You’ll 
 
 
 
-Build Your Project
-To complete this project, follow the steps below. Then submit the required information outlined in the Prepare for Submission section.
+# Build Your Project
 
 Project Steps
 Step 1: Navigate to Electrum.org to download and install your bitcoin wallet.
